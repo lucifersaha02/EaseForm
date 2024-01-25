@@ -6,7 +6,7 @@ EaseForm is an online form builder that has been designed to be effortlessly eas
 EaseForm gives you the ability to create a wide range of forms, typically used by business, and offers  users the ability to create  forms with unlimited questions.
 All your forms are fully customizable on mobile devices too!
 For more info or if you'd like to learn more about our products please visit our website: https://easeform.pythonanywhere.com/
-## Intro Video
+
 
 
 
