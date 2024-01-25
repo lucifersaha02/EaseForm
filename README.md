@@ -13,7 +13,7 @@ For more info or if you'd like to learn more about our products please visit our
 ## Screenshots
 
 
-![App Screenshot](https://i.imgur.com/VHMaVNa.png)
+![App Screenshot](https://i.imgur.com/06othce.png)
 
 
 ![App Screenshot](https://i.imgur.com/b9y8yLl.png)
