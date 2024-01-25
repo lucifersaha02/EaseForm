@@ -8,9 +8,6 @@ All your forms are fully customizable on mobile devices too!
 For more info or if you'd like to learn more about our products please visit our website: https://easeform.pythonanywhere.com/
 ## Intro Video
 
-##Intro video
-
-https://user-images.githubusercontent.com/65186501/131156064-aad86581-6b00-4a93-8366-1df6909a3c62.mp4
 
 
 ## Screenshots
@@ -55,7 +52,7 @@ https://user-images.githubusercontent.com/65186501/131156064-aad86581-6b00-4a93-
 - Clone the project
 
 ```bash
-  git clone https://github.com/shayan-cyber/EaseForm.git
+  git clone https://github.com/lucifersaha02/EaseForm.git
 ```
 
 
@@ -93,6 +90,6 @@ https://user-images.githubusercontent.com/65186501/131156064-aad86581-6b00-4a93-
     
 ## Feedback
 
-If you have any feedback, please reach out to us at debroyshayan@gmail.com
+If you have any feedback, please reach out to us at supratiksaha653@gmail.com
 
   
